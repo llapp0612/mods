@@ -1,0 +1,966 @@
+{
+    "bagne": {
+        "0": {
+          "type": "29",
+          "x": "1543.42",
+          "y": "-10612.28",
+          "title": "Kami (Abgrund von Ichor) -> [201 - 250]"
+        },
+        "1": {
+          "type": "29",
+          "x": "996.18",
+          "y": "-10493.54",
+          "title": "Karavan (Abgrund von Ichor) -> [201 - 250]"
+        },
+        "2": {
+          "type": "29",
+          "x": "700.73",
+          "y": "-10437.09",
+          "title": "Ranger (Abgrund von Ichor) -> [201 - 250]"
+        },
+        "3": {
+          "type": "29",
+          "x": "1544.78",
+          "y": "-9921.12",
+          "title": "Marodeur (Abgrund von Ichor) -> [201 - 250]"
+        },
+        "4": {
+            "type": "29",
+            "x": "1542.96",
+            "y": "-10965.01",
+            "title": "Marodeur (Abgrund von Ichor) -> [201 - 250]"
+        }
+    },
+    "fyros": {
+        "5": {
+          "type": "29",
+          "x": "17921.62",
+          "y": "-25339.50",
+          "title": "Kami (Oflovaks Oase, neutral) -> [51 - 100]"
+        },
+        "6": {
+          "type": "29",
+          "x": "18726.53",
+          "y": "-24953.72",
+          "title": "Karavan (Imperiale Dünen, neutral) -> [1 - 50]"
+        },
+        "7": {
+          "type": "29",
+          "x": "18868.57",
+          "y": "-24380.95",
+          "title": "Kami (Pyr) -> [1 - 50]"
+        },
+        "8": {
+          "type": "29",
+          "x": "20017.22",
+          "y": "-25528.05",
+          "title": "Karavan (Sägemelminen, neutral) -> [101 - 150]"
+        },
+        "9": {
+          "type": "29",
+          "x": "19456.95",
+          "y": "-26268.71",
+          "title": "Kami (Thesos, neutral) -> [151 - 200]"
+        },
+        "10": {
+          "type": "29",
+          "x": "16683.59",
+          "y": "-24626.34",
+          "title": "Kami (Dyron, neutral) -> [151 - 200]"
+        },
+        "11": {
+          "type": "29",
+          "x": "17612.39",
+          "y": "-26206.57",
+          "title": "Kami (Sengende Schlucht) -> [201 - 250]"
+        },
+        "12": {
+          "type": "29",
+          "x": "20171.61",
+          "y": "-25003.55",
+          "title": "Kami (Sägemehlminen, faction) -> [101 - 150]"
+        },
+        "13": {
+          "type": "29",
+          "x": "17119.02",
+          "y": "-25129.65",
+          "title": "Kami (Frahar-Türme, neutral) -> [101 - 150]"
+        },
+        "14": {
+          "type": "29",
+          "x": "17137.09",
+          "y": "-25914.69",
+          "title": "Karavan (Frahars Türme, faction) -> [101 - 150]"
+        },
+        "15": {
+          "type": "29",
+          "x": "18870.11",
+          "y": "-25361.36",
+          "title": "Kami (Canyon der Gesetzlosen, faction) -> [201 - 250]"
+        },
+        "16": {
+          "type": "29",
+          "x": "16115.78",
+          "y": "-24561.77",
+          "title": "Karavan (Dünen der Verbannung, neutral) -> [151 - 200]"
+        },
+        "17": {
+          "type": "29",
+          "x": "19149.48",
+          "y": "-26012.51",
+          "title": "Karavan (Thesos) -> [151 - 200]"
+        },
+        "18": {
+          "type": "29",
+          "x": "17484.34",
+          "y": "-25310.37",
+          "title": "Karavan (Oflovaks Oase, faction) -> [51 - 100]"
+        },
+        "19": {
+          "type": "29",
+          "x": "18085.58",
+          "y": "-24952.85",
+          "title": "Marodeur (Oflovaks Oase) -> [51 - 100]"
+        },
+        "20": {
+          "type": "29",
+          "x": "16838.50",
+          "y": "-25355.77",
+          "title": "Marodeur (Frahar Türme) -> [101 - 150]"
+        },
+        "21": {
+          "type": "29",
+          "x": "18691.14",
+          "y": "-24929.24",
+          "title": "Ranger (Pyr) -> [1 - 50]"
+        },
+        "22": {
+          "type": "29",
+          "x": "16827.00",
+          "y": "-26191.00",
+          "title": "Ranger (Sengende Schlucht) -> [201 - 250]"
+        },
+        "23": {
+          "type": "29",
+          "x": "19477.83",
+          "y": "-24811.38",
+          "title": "Marodeur (Canyon der Gesetzlosen) -> [201 - 250]"
+        },
+        "24": {
+          "type": "29",
+          "x": "19906.91",
+          "y": "-26880.48",
+          "title": "Marodeur (Wilde Dünen) -> [151 - 200]"
+        },
+        "25": {
+          "type": "29",
+          "x": "16786.77",
+          "y": "-26413.00",
+          "title": "Marodeur (Sengende Schlucht) -> [201 - 250]"
+        },
+        "26": {
+          "type": "29",
+          "x": "16904.15",
+          "y": "-24388.71",
+          "title": "Marodeur (Dünen der Verbannung) -> [151 - 200]"
+        },
+        "27": {
+          "type": "29",
+          "x": "18482.30",
+          "y": "-26522.22",
+          "title": "Karavan (Sengende Schlucht, Faction) -> [201 - 250]"
+        },
+        "28": {
+          "type": "29",
+          "x": "19179.45",
+          "y": "-25553.02",
+          "title": "Marodeur (Sägemehlminen) -> [101 - 150]"
+        },
+        "29": {
+          "type": "29",
+          "x": "19222.67",
+          "y": "-25224.66",
+          "title": "Karavan (Canyon der Gesetzlosen, faction) -> [201 - 250]"
+        },
+		"156": {
+            "type": 6,
+            "x": "20177.00",
+            "y": "-25198.00",
+            "title": "Marodeur (Sägemehlminen) -> [101 - 150]"
+        },
+    },
+    "matis": {
+        "30": {
+          "type": "29",
+          "x": "392.44",
+          "y": "-815.43",
+          "title": "Karavan (Versteckte Quelle, neutral) -> [151 - 200]"
+        },
+        "31": {
+          "type": "29",
+          "x": "1198.88",
+          "y": "-431.38",
+          "title": "Kami (Versteckte Quelle, neutral) -> [151 - 200]"
+        },
+        "32": {
+          "type": "29",
+          "x": "2444.41",
+          "y": "-1302.47",
+          "title": "Kami (Hügel der Abtrünnigen, neutral) -> [101 - 150]"
+        },
+        "33": {
+          "type": "29",
+          "x": "2169.93",
+          "y": "-2438.86",
+          "title": "Karavan (Hügel der Abtrünnigen neutral) -> [101 - 150]"
+        },
+        "34": {
+          "type": "29",
+          "x": "4631.55",
+          "y": "-3093.96",
+          "title": "Kami (Yrkanis, neutral) -> [1 - 50]"
+        },
+        "35": {
+          "type": "29",
+          "x": "4073.09",
+          "y": "-1256.52",
+          "title": "Kami (Hain der Verwirrung, faction) -> [201 - 250]"
+        },
+        "36": {
+          "type": "29",
+          "x": "4386.23",
+          "y": "-1524.54",
+          "title": "Marodeur (Hain der Verwirrung) -> [201 - 250]"
+        },
+        "37": {
+          "type": "29",
+          "x": "3820.62",
+          "y": "-3772.53",
+          "title": "Karavan (Natae, faction) -> [1 - 50]"
+        },
+        "38": {
+          "type": "29",
+          "x": "6053.75",
+          "y": "-5999.53",
+          "title": "Kami (Vergänglicher Garten, neutral) -> [51 - 100]"
+        },
+        "39": {
+          "type": "29",
+          "x": "4878.78",
+          "y": "-6015.89",
+          "title": "Karavan (Vergänglicher Garten, faction) -> [51 - 100]"
+        },
+        "40": {
+          "type": "29",
+          "x": "3451.44",
+          "y": "-6152.83",
+          "title": "Kami (Oberer Sumpf, faction) -> [151 - 200]"
+        },
+        "41": {
+          "type": "29",
+          "x": "5173.03",
+          "y": "-7718.34",
+          "title": "Karavan (Ketzers Hütte, neutral) -> [151 - 200]"
+        },
+        "42": {
+          "type": "29",
+          "x": "5717.51",
+          "y": "-7799.50",
+          "title": "Kami (Ketzers Hütte, neutral) -> [151 - 200]"
+        },
+        "43": {
+          "type": "29",
+          "x": "4669.75",
+          "y": "-3323.52",
+          "title": "Karavan (Yrkanis) -> [1 - 50]"
+        },
+        "44": {
+          "type": "29",
+          "x": "4387.06",
+          "y": "-6513.43",
+          "title": "Marodeur (Oberer Sumpf) -> [151 - 200]"
+        },
+        "45": {
+          "type": "29",
+          "x": "4839.49",
+          "y": "-4330.05",
+          "title": "Karavan (Avalae) -> [1 - 50]"
+        },
+        "46": {
+          "type": "29",
+          "x": "4420.85",
+          "y": "-1685.97",
+          "title": "Karavan (Hain der Verwirrung, faction) -> [201 - 250]"
+        },
+        "47": {
+          "type": "29",
+          "x": "3543.34",
+          "y": "-5537.16",
+          "title": "Karavan (Oberer Sumpf, neutral) -> [151 - 200]"
+        },
+        "48": {
+          "type": "29",
+          "x": "4577.90",
+          "y": "-3088.08",
+          "title": "Ranger (Yrkanis -> Hain d. Verwirrung) -> [1 - 50]"
+        },
+        "49": {
+          "type": "29",
+          "x": "4260.93",
+          "y": "-1316.19",
+          "title": "Ranger (Hain d. Verwirrung -> Yrkanis) -> [201 - 250]"
+        },
+        "50": {
+          "type": "29",
+          "x": "5496.45",
+          "y": "-7297.84",
+          "title": "Marodeur (Ketzers Hütte) -> [151 - 200]"
+        },
+        "51": {
+          "type": "29",
+          "x": "4355.76",
+          "y": "-4874.55",
+          "title": "Marodeur (Vergänglicher Garten) -> [51 - 100]"
+        },
+        "52": {
+          "type": "29",
+          "x": "2759.50",
+          "y": "-2539.26",
+          "title": "Marodeur (Hügel der Abtrünnigen) -> [101 - 150]"
+        },
+        "53": {
+          "type": "29",
+          "x": "1030.68",
+          "y": "-1296.47",
+          "title": "Marodeur (Versteckte Quelle) -> [151 - 200]"
+        },
+        "54": {
+          "type": "29",
+          "x": "4119.24",
+          "y": "-3201.53",
+          "title": "Kara-Porter Almati-Wald -> [101 - 150]"
+        },
+        "157": {
+          "type": "29",
+          "x": "4265.23",
+          "y": "-4143.03",
+          "title": "Karavan (Davae) -> [1 - 50]"
+        }
+    },
+    "matis_island": {
+        "55": {
+          "type": "29",
+          "x": "14721.25",
+          "y": "-808.46",
+          "title": "Karavan (Almati-Wald, neutral) -> [101 - 150]"
+        },
+        "56": {
+          "type": "29",
+          "x": "14858.73",
+          "y": "-989.95",
+          "title": "Kami (Almati Wald, faction) -> [101 - 150]"
+        },
+        "57": {
+          "type": "29",
+          "x": "14474.24",
+          "y": "-1278.43",
+          "title": "Marodeur (Almati-Wald) -> [101 - 150]"
+        }
+    },
+    "newbieland": {
+        "58": {
+          "type": "29",
+          "x": "9483.58",
+          "y": "-10899.03",
+          "title": "Karavan (Zerstörte Ruinen) -> [1 - 50]"
+        },
+        "59": {
+          "type": "29",
+          "x": "8789.40",
+          "y": "-11193.82",
+          "title": "Kami (Schimmernder See) -> [1 - 50]"
+        },
+        "60": {
+          "type": "29",
+          "x": "10417.78",
+          "y": "-11670.78",
+          "title": "Kami (Rangerlager) -> [1 - 50]"
+        },
+        "61": {
+          "type": "29",
+          "x": "10407.61",
+          "y": "-11853.50",
+          "title": "Karavan (Rangercamp) -> [1 - 50]"
+        },
+        "62": {
+          "type": "29",
+          "x": "10298.12",
+          "y": "-11818.92",
+          "title": "Neue Horizonte -> [1 - 50]"
+        },
+        "63": {
+          "type": "29",
+          "x": "10438.64",
+          "y": "-11797.89",
+          "title": "Marodeure (Silan, Rangerlager) -> [1 - 50]"
+        }
+    },
+    "nexus": {
+        "64": {
+          "type": "29",
+          "x": "9021.33",
+          "y": "-7290.56",
+          "title": "Nexus (Kami, neutral) -> [151 - 200]"
+        },
+        "65": {
+          "type": "29",
+          "x": "8563.96",
+          "y": "-6820.47",
+          "title": "Karavan (Nexus, neutral) -> [151 - 200]"
+        },
+        "66": {
+          "type": "29",
+          "x": "9082.49",
+          "y": "-7494.14",
+          "title": "Ranger (Nexus) -> [151 - 200]"
+        },
+        "67": {
+          "type": "29",
+          "x": "8461.49",
+          "y": "-7576.51",
+          "title": "Marodeur (Nexus) -> [151 - 200]"
+        }
+    },
+    "route_gouffre": {
+        "68": {
+          "type": "29",
+          "x": "5961.14",
+          "y": "-15734.35",
+          "title": "Kami (Graben der Heimsuchung) -> [151 - 200]"
+        },
+        "69": {
+          "type": "29",
+          "x": "6826.41",
+          "y": "-14844.55",
+          "title": "Kami (Tor der Dunkelheit) -> [151 - 200]"
+        },
+        "70": {
+          "type": "29",
+          "x": "6745.85",
+          "y": "-14435.99",
+          "title": "Ranger (Tor der Dunkelheit) -> [151 - 200]"
+        },
+        "71": {
+          "type": "29",
+          "x": "5640.40",
+          "y": "-12394.31",
+          "title": "Kami (Unergründlicher Wald) -> [151 - 200]"
+        },
+        "72": {
+          "type": "29",
+          "x": "6331.08",
+          "y": "-12449.81",
+          "title": "Ranger (Unergründlicher Wald) -> [151 - 200]"
+        },
+        "73": {
+          "type": "29",
+          "x": "5802.47",
+          "y": "-11350.27",
+          "title": "Marodeur (Pforte des Sturms) -> [151 - 200]"
+        },
+        "74": {
+          "type": "29",
+          "x": "6209.47",
+          "y": "-10693.03",
+          "title": "Kami (Pforte des Sturms) -> [151 - 200]"
+        },
+        "75": {
+          "type": "29",
+          "x": "5832.80",
+          "y": "-9685.71",
+          "title": "Karavan (Pforte des Sturms) -> [151 - 200]"
+        },
+        "76": {
+          "type": "29",
+          "x": "6175.00",
+          "y": "-9788.23",
+          "title": "Marodeur (Pforte des Sturms) -> [151 - 200]"
+        },
+        "77": {
+          "type": "29",
+          "x": "6375.78",
+          "y": "-13224.01",
+          "title": "Marodeur (Unergründlicher Wald) -> [151 - 200]"
+        },
+        "78": {
+          "type": "29",
+          "x": "6333.70",
+          "y": "-16484.04",
+          "title": "Marodeur (Graben der Heimsuchung) -> [151 - 200]"
+        },
+        "79": {
+          "type": "29",
+          "x": "6191.81",
+          "y": "-10335.48",
+          "title": "Ranger (Pforte des Sturms) -> [151 - 200]"
+        },
+        "80": {
+          "type": "29",
+          "x": "6333.32",
+          "y": "-12450.71",
+          "title": "Ranger (Unergründlicher Wald) -> [151 - 200]"
+        },
+        "81": {
+          "type": "29",
+          "x": "5959.13",
+          "y": "-16150.06",
+          "title": "Ranger (Graben der Heimsuchung) -> [151 - 200]"
+        },
+        "82": {
+          "type": "29",
+          "x": "6952.82",
+          "y": "-16223.45",
+          "title": "Karavan (Graben der Heimsuchung) -> [151 - 200]"
+        },
+        "83": {
+          "type": "29",
+          "x": "6631.18",
+          "y": "-14147.97",
+          "title": "Karavan (Tor der Dunkelheit) -> [151 - 200]"
+        },
+        "84": {
+          "type": "29",
+          "x": "6675.24",
+          "y": "-12082.53",
+          "title": "Karavan (Unergründlicher Wald, faction) -> [151 - 200]"
+        },
+        "85": {
+          "type": "29",
+          "x": "5977.36",
+          "y": "-14398.40",
+          "title": "Marodeur (Tor der Dunkelheit) -> [151 - 200]"
+        }
+    },
+    "sources": {
+        "86": {
+          "type": "29",
+          "x": "3650.33",
+          "y": "-10078.60",
+          "title": "Kami (Verbotene Quellen, faction) -> [201 - 250]"
+        },
+        "87": {
+          "type": "29",
+          "x": "2621.82",
+          "y": "-10739.19",
+          "title": "Karavan (Verbotene Quellen) -> [201 - 250]"
+        },
+        "88": {
+          "type": "29",
+          "x": "3359.02",
+          "y": "-9817.16",
+          "title": "Marodeur (Verbotene Quellen) -> [201 - 250]"
+        },
+        "89": {
+          "type": "29",
+          "x": "2973.47",
+          "y": "-10048.01",
+          "title": "Ranger (Verbotene Quellen) -> [201 - 250]"
+        },
+        "90": {
+          "type": "29",
+          "x": "3434.67",
+          "y": "-11115.24",
+          "title": "Marodeur (Verbotene Quellen) -> [201 - 250]"
+        }
+    },
+    "terre": {
+        "91": {
+          "type": "29",
+          "x": "1082.67",
+          "y": "-13809.81",
+          "title": "Kami (Land der Kontinuität, faction) -> [201 - 250]"
+        },
+        "92": {
+          "type": "29",
+          "x": "1504.00",
+          "y": "-14415.36",
+          "title": "Marodeur (Land der Kontinuität) -> [201 - 250]"
+        },
+        "93": {
+          "type": "29",
+          "x": "2683.22",
+          "y": "-14691.36",
+          "title": "Kami (Verbotene Tiefe, faction) -> [201 - 250]"
+        },
+        "94": {
+          "type": "29",
+          "x": "2108.32",
+          "y": "-14072.34",
+          "title": "Kami (Versunkene Stad, faction) -> [201 - 250]"
+        },
+        "95": {
+          "type": "29",
+          "x": "1163.21",
+          "y": "-13856.88",
+          "title": "Ranger (Land der Kontinuiität) -> [201 - 250]"
+        },
+        "96": {
+          "type": "29",
+          "x": "1734.35",
+          "y": "-13317.08",
+          "title": "Ranger (Versunkene Stadt) -> [201 - 250]"
+        },
+        "97": {
+          "type": "29",
+          "x": "2747.60",
+          "y": "-15485.95",
+          "title": "Ranger (Verbotene Tiefe) -> [201 - 250]"
+        },
+        "98": {
+          "type": "29",
+          "x": "2230.47",
+          "y": "-14715.72",
+          "title": "Marodeur (Verbotene Tiefen) -> [201 - 250]"
+        },
+        "99": {
+          "type": "29",
+          "x": "1498.61",
+          "y": "-14766.72",
+          "title": "Karavan (Verbotene Tiefen) -> [201 - 250]"
+        },
+        "100": {
+          "type": "29",
+          "x": "397.42",
+          "y": "-13389.66",
+          "title": "Karavan (Land der Kontinuität, faction) -> [201 - 250]"
+        },
+        "101": {
+          "type": "29",
+          "x": "1821.99",
+          "y": "-13876.77",
+          "title": "Karavan (Versunkene Stadt) -> [201 - 250]"
+        },
+        "102": {
+          "type": "29",
+          "x": "960.60",
+          "y": "-13174.82",
+          "title": "Marodeur (Land der Kontinuität) -> [201 - 250]"
+        },
+        "103": {
+          "type": "29",
+          "x": "2492.03",
+          "y": "-13738.29",
+          "title": "Marodeur (Versunkene Stadt) -> [201 - 250]"
+        }
+    },
+    "tryker": {
+        "104": {
+          "type": "29",
+          "x": "14378.29",
+          "y": "-31556.99",
+          "title": "Kami (Strände des Überflusses, neutral) -> [101 - 150]"
+        },
+        "105": {
+          "type": "29",
+          "x": "14705.55",
+          "y": "-34837.57",
+          "title": "Kami (Ursprung, faction) -> [151 - 200]"
+        },
+        "106": {
+          "type": "29",
+          "x": "15965.35",
+          "y": "-33804.59",
+          "title": "Kami (Ruhiges Wasser, neutral) -> [51 - 100]"
+        },
+        "107": {
+          "type": "29",
+          "x": "16497.17",
+          "y": "-33673.03",
+          "title": "Karavan (Ruhiges Wasser, faction) -> [51 - 100]"
+        },
+        "108": {
+          "type": "29",
+          "x": "17404.29",
+          "y": "-32828.73",
+          "title": "Kami (Fairhaven) -> [1 - 50]"
+        },
+        "109": {
+          "type": "29",
+          "x": "17229.20",
+          "y": "-32926.86",
+          "title": "Karavan (Fairhaven) -> [1 - 50]"
+        },
+        "110": {
+          "type": "29",
+          "x": "17786.19",
+          "y": "-31875.20",
+          "title": "Karavan (Crystabell, faction) -> [1 - 50]"
+        },
+        "111": {
+          "type": "29",
+          "x": "18171.82",
+          "y": "-31140.80",
+          "title": "Karavan (Avendale) -> [1 - 50]"
+        },
+        "112": {
+          "type": "29",
+          "x": "16664.96",
+          "y": "-31720.58",
+          "title": "Kami (Tautropfen neutral) -> [51 - 100]"
+        },
+        "113": {
+          "type": "29",
+          "x": "18522.64",
+          "y": "-34490.09",
+          "title": "Kami (Verzauberte Insel, neutral) -> [151 - 200]"
+        },
+        "114": {
+          "type": "29",
+          "x": "15331.99",
+          "y": "-29796.50",
+          "title": "Kami (Winde der Musen, faction) -> [51 - 100]"
+        },
+        "115": {
+          "type": "29",
+          "x": "19303.08",
+          "y": "-32053.76",
+          "title": "Kami (Lagunen von Loria) -> [201 - 250]"
+        },
+        "116": {
+          "type": "29",
+          "x": "15108.87",
+          "y": "-34417.12",
+          "title": "Karavan (Ursprung, neutral) -> [151 - 200]"
+        },
+        "117": {
+          "type": "29",
+          "x": "15582.42",
+          "y": "-33032.67",
+          "title": "Karavan (Windermeer, faction) -> [51 - 100]"
+        },
+        "118": {
+          "type": "29",
+          "x": "14657.94",
+          "y": "-32434.14",
+          "title": "Karavan (Strände des Überflusses, neutral) -> [101 - 150]"
+        },
+        "119": {
+          "type": "29",
+          "x": "15724.99",
+          "y": "-30625.91",
+          "title": "Marodeur (Winde der Musen) -> [51 - 100]"
+        },
+        "120": {
+          "type": "29",
+          "x": "17221.86",
+          "y": "-32066.58",
+          "title": "Marodeur (Tautropfen) -> [51 - 100]"
+        },
+        "121": {
+          "type": "29",
+          "x": "17925.98",
+          "y": "-33861.41",
+          "title": "Karavan (Verzauberte Insel, faction) -> [151 - 200]"
+        },
+        "122": {
+          "type": "29",
+          "x": "17411.07",
+          "y": "-32775.84",
+          "title": "Ranger (Fairhaven) -> [1 - 50]"
+        },
+        "123": {
+          "type": "29",
+          "x": "19391.00",
+          "y": "-30264.00",
+          "title": "Ranger (Loria -> Fairhaven) -> [201 - 250]"
+        },
+        "124": {
+          "type": "29",
+          "x": "16703.54",
+          "y": "-33802.36",
+          "title": "Marodeur (Ruhiges Wasser) -> [51 - 100]"
+        },
+        "125": {
+          "type": "29",
+          "x": "19955.61",
+          "y": "-30401.50",
+          "title": "Marodeur (Lagunen von Loria) -> [201 - 250]"
+        },
+        "126": {
+          "type": "29",
+          "x": "19162.54",
+          "y": "-29668.06",
+          "title": "Karavan (Lagunen von Loria) -> [201 - 250]"
+        },
+        "127": {
+          "type": "29",
+          "x": "17197.53",
+          "y": "-34359.48",
+          "title": "Marodeur (Verzauberte Insel) -> [151 - 200]"
+        },
+        "128": {
+          "type": "29",
+          "x": "16984.91",
+          "y": "-31466.91",
+          "title": "Karavan (Tautropfen, faction) -> [51 - 100]"
+        },
+        "129": {
+          "type": "29",
+          "x": "14413.25",
+          "y": "-32433.88",
+          "title": "Marodeur (Strände des Überflusses, faction) -> [101 - 150]"
+        },
+        "130": {
+          "type": "29",
+          "x": "14933.62",
+          "y": "-33673.60",
+          "title": "Marodeur (Ursprung) -> [151 - 200]"
+        },
+        "131": {
+            "type": 29,
+            "x": "15488.37",
+            "y": "-30467.94",
+            "title": "Karavan (Winde der Muse, neutral) -> [51 - 100]"
+        }
+    },
+    "zorai": {
+        "133": {
+          "type": "29",
+          "x": "8766.46",
+          "y": "-2952.45",
+          "title": "Kami (Zora, neutral) -> [1 - 50]"
+        },
+        "134": {
+          "type": "29",
+          "x": "8705.58",
+          "y": "-3221.90",
+          "title": "Zora (Karavan, neutral) -> [1 - 50]"
+        },
+        "135": {
+          "type": "29",
+          "x": "9621.62",
+          "y": "-3432.42",
+          "title": "Kami Hoi-Cho -> [1 - 50]"
+        },
+        "136": {
+          "type": "29",
+          "x": "10001.54",
+          "y": "-4332.41",
+          "title": "Kami (Min-Cho) -> [1 - 50]"
+        },
+        "137": {
+          "type": "29",
+          "x": "9725.40",
+          "y": "-2592.33",
+          "title": "Kami (Hafen der Reinheit) -> [101 - 150]"
+        },
+        "138": {
+          "type": "29",
+          "x": "10813.28",
+          "y": "-1961.57",
+          "title": "Kami (Das Nichts / The Void, faction) -> [201 - 250]"
+        },
+        "139": {
+          "type": "29",
+          "x": "12036.98",
+          "y": "-3301.18",
+          "title": "Karavan (Jungfräulicher Wald, neutral) -> [51 - 100]"
+        },
+        "140": {
+          "type": "29",
+          "x": "11956.73",
+          "y": "-3393.83",
+          "title": "Kami (Jungfräulicher Wald, faction) -> [51 - 100]"
+        },
+        "141": {
+          "type": "29",
+          "x": "10969.01",
+          "y": "-4515.71",
+          "title": "Kami (Hain von Umbra, neutral) -> [151 - 200]"
+        },
+        "142": {
+          "type": "29",
+          "x": "10001.54",
+          "y": "-4333.22",
+          "title": "Kami (Min-Cho, faction) -> [1 - 50]"
+        },
+        "143": {
+          "type": "29",
+          "x": "8777.45",
+          "y": "-3720.44",
+          "title": "Kami (Jen-Lai) -> [1 - 50]"
+        },
+        "144": {
+          "type": "29",
+          "x": "9496.59",
+          "y": "-2791.58",
+          "title": "Marodeur (Hafen der Reinheit) -> [101 - 150]"
+        },
+        "145": {
+          "type": "29",
+          "x": "10123.58",
+          "y": "-2424.07",
+          "title": "Marodeur (Nichts) -> [201 - 250]"
+        },
+        "146": {
+          "type": "29",
+          "x": "11624.60",
+          "y": "-1672.98",
+          "title": "Karavan (Void, faction) -> [201 - 250]"
+        },
+        "147": {
+          "type": "29",
+          "x": "8411.86",
+          "y": "-1447.49",
+          "title": "Karavan (Knoten der Demenz, neutral) -> [151 - 200]"
+        },
+        "148": {
+          "type": "29",
+          "x": "8094.14",
+          "y": "-2258.73",
+          "title": "Kami (Knoten der Demenz) -> [151 - 200]"
+        },
+        "149": {
+          "type": "29",
+          "x": "10661.94",
+          "y": "-3288.87",
+          "title": "Marodeur (Jungfräuliches Wäldchen) -> [51 - 100]"
+        },
+        "150": {
+          "type": "29",
+          "x": "9417.40",
+          "y": "-1970.13",
+          "title": "Karavan (Hafen der Reinheit, faction) -> [101 - 150]"
+        },
+        "151": {
+          "type": "29",
+          "x": "11995.40",
+          "y": "-5346.22",
+          "title": "Karavan (Hain von Umbra, neutral) -> [151 - 200]"
+        },
+        "152": {
+          "type": "29",
+          "x": "10264.92",
+          "y": "-4527.25",
+          "title": "Marodeur (Hain von Umbra) -> [151 - 200]"
+        },
+        "153": {
+          "type": "29",
+          "x": "8740.76",
+          "y": "-3272.71",
+          "title": "Ranger (Zora) -> [1 - 50]"
+        },
+        "154": {
+          "type": "29",
+          "x": "10662.77",
+          "y": "-2199.86",
+          "title": "Ranger (Void -> Zora) -> [201 - 250]"
+        },
+        "155": {
+          "type": "29",
+          "x": "7769.14",
+          "y": "-3041.72",
+          "title": "Marodeur (Knoten der Demenz) -> [151 - 200]"
+        }
+    }
+}

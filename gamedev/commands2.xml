@@ -1,0 +1,28 @@
+<interface_config>
+    <lua file="mods.lua"/>
+
+    <command name="runShortcut" action="run_shortcut" params="$"/>
+    <command name="lua" action="lua" params="$"/>
+
+	<command name="ah" action="lua" params="runAH(nil, &quot;$&quot;, &quot;+&quot;)" />
+    <command name="ah" action="lua" params="runAH(nil, &quot;$&quot;, &quot;&quot;)" />
+
+    <command name="pos" action="lua" params="require('map.mapmarker').getPlayerPosition()" />
+
+    <command name="reloadMods" action="lua" params="reload()" />
+
+    <command name="boss" action="lua" params="require('tools.scanner').scan(1)" />
+    <command name="named" action="lua" params="require('tools.scanner').scan(2)" />
+    <command name="pat" action="lua" params="require('tools.scanner').scan(3)" />
+    <command name="egg" action="lua" params="require('tools.scanner').scan(4)" />
+
+	<command name="silent" action="emote" params="behav=$|nb=0|custom_phrase=none"/>
+
+    <command name="inventory" action="lua" params="if(getDbProp('UI:TEMP:INVENTORY_ROOM_OPENED')==0 or getDbProp('UI:TEMP:INVENTORY_GUILD_OPENED')==0)then
+                                                        runAH(nil, 'set', 'dblink=UI:TEMP:INVENTORY_ROOM_OPENED|value=1');
+                                                        runAH(nil, 'set', 'dblink=UI:TEMP:INVENTORY_GUILD_OPENED|value=1');
+                                                    else
+                                                        runAH(nil, 'set', 'dblink=UI:TEMP:INVENTORY_ROOM_OPENED|value=0');
+                                                        runAH(nil, 'set', 'dblink=UI:TEMP:INVENTORY_GUILD_OPENED|value=0');
+                                                    end" />
+</interface_config>

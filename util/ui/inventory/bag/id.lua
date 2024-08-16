@@ -1,0 +1,1 @@
+return require("util.ui.inventory.id") .. ":content:bag";

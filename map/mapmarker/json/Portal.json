@@ -1,0 +1,118 @@
+{
+    "tryker": {
+        "0": {
+          "type": "28",
+          "x": "18542.38",
+          "y": "-30981.23",
+          "title": "Durchgang zu Lagunen von Loria"
+        },
+        "1": {
+          "type": "28",
+          "x": "18931.47",
+          "y": "-30969.39",
+          "title": "Durchgang zu Avendale (See der Freiheit)"
+        },
+        "2": {
+          "type": "28",
+          "x": "15100.26",
+          "y": "-32114.39",
+          "title": "Durchgang zu See der Freiheit"
+        },
+        "3": {
+          "type": "28",
+          "x": "15598.50",
+          "y": "-32026.55",
+          "title": "Durchgang zu Strände des Überflusses"
+        },
+        "4": {
+          "type": "28",
+          "x": "15454.92",
+          "y": "-31488.94",
+          "title": "Durchgang zu Strände des Überflusses"
+        },
+        "5": {
+          "type": "28",
+          "x": "15165.71",
+          "y": "-31615.29",
+          "title": "Durchgang zu Winde der Musen"
+        },
+        "6": {
+          "type": "28",
+          "x": "16757.04",
+          "y": "-29859.85",
+          "title": "Durchgang zu Lagunen von Loria"
+        },
+        "7": {
+          "type": "28",
+          "x": "17157.12",
+          "y": "-30000.47",
+          "title": "Durchgang zu Winde der Musen"
+        },
+        "8": {
+          "type": "28",
+          "x": "16717.84",
+          "y": "-30678.81",
+          "title": "Durchgang zu Tautropfen"
+        },
+        "9": {
+          "type": "28",
+          "x": "17061.33",
+          "y": "-34682.47",
+          "title": "Durchgang zu Ruhiges Wasser"
+        },
+        "10": {
+          "type": "28",
+          "x": "16716.44",
+          "y": "-34181.29",
+          "title": "Durchgang zu Verzauberte Insel"
+        },
+        "11": {
+          "type": "28",
+          "x": "5139.87",
+          "y": "-7721.99",
+          "title": "Durchgang zu Lagunen von Loria"
+        },
+        "12": {
+          "type": "28",
+          "x": "18517.25",
+          "y": "-33545.53",
+          "title": "Durchgang zu See der Freiheit"
+        },
+        "13": {
+          "type": "28",
+          "x": "18304.27",
+          "y": "-33276.47",
+          "title": "Durchgang zu Verzauberte Insel"
+        },
+        "14": {
+          "type": "28",
+          "x": "16039.80",
+          "y": "-34204.88",
+          "title": "Durchgang zu Ursprung"
+        },
+        "15": {
+          "type": "28",
+          "x": "15797.80",
+          "y": "-34345.32",
+          "title": "Durchgang zu Ruhiges Wasser"
+        },
+        "16": {
+          "type": "28",
+          "x": "14505.64",
+          "y": "-33802.60",
+          "title": "Durchgang zu Strände des Überflusses"
+        },
+        "17": {
+          "type": "28",
+          "x": "14282.58",
+          "y": "-33174.59",
+          "title": "Durchgang zu Ursprung"
+        },
+        "18": {
+          "type": "28",
+          "x": "16642.64",
+          "y": "-31249.05",
+          "title": "Durchgang zu Winde der Muse"
+        }
+    }
+  }

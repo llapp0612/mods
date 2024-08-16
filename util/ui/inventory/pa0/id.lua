@@ -1,0 +1,1 @@
+return require("util.ui.id") .. ":inv_pa0:content";

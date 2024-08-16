@@ -1,0 +1,1 @@
+return require("util.ui.inventory.pa0.id") .. ":iil:bag_icons";
